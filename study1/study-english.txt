@@ -1,0 +1,320 @@
+technology tags that interest you   
+jog
+Engage
+developer
+well-coordinated
+conversing
+Recite
+no recruiter spam
+public profile
+Opt-in
+occasional
+invitations
+Opt-in to receive occasional product updates, user research invitations, company announcements, and digests.
+domain
+browser
+authentication
+resubmission
+reproduce my problems
+correctly
+encountered an issue
+is invoked
+remote
+compatible
+Layout of homepage
+Homepage
+publish my site 
+A JavaScript library for building user interfaces
+Interface
+user interface
+Declarative
+debug
+Make it painless to create interactive UIs
+Update and render
+Compose
+reusable
+infer parameter types from usage
+rootmate
+declaration file
+prosperity
+Solid
+firework
+firecracker
+Trends
+Intro to React
+concept
+from the ground up
+Setup
+Overview
+interactive
+syntax
+guide
+compile
+development environment
+I’m Stuck
+get an overview
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces
+It lets you compose complex UIs from small and isolated pieces of code called “components”.
+subclasses
+curious
+wrapping up
+braces
+Advanced guides
+Your Profile
+post
+Contact Info
+plugin
+dominate some concepts
+storage
+production
+my brain literally stops working when i see this
+commit
+in the process of
+tab
+restore
+frontend
+backend
+front dev
+mathematicians
+design pattern
+framework  ---  the parts of a building or an object that support its weight and give it shape
+rehired
+your sorting algorithm has flaws
+assembly
+last night
+when you Declare a variable and never use it
+Quote of 2020
+manually
+cumbersome
+locale preference
+dynamic
+nested
+Caveats
+Legacy API
+authenticated user
+intermediate elements
+reuse
+component composition 
+preferred language
+per se
+compositional nature
+Concretely
+Whereas
+Cross-Cutting Concerns
+blog
+post
+identical
+call methods
+implementation 
+arguments
+parameter
+modify
+inheritance
+composes
+original component
+Convention
+HOCs add features to a component
+They shouldn’t drastically alter its contract
+Alter
+contributor
+Highlights
+Bio
+frontend dev
+I go by bruce
+new repository
+Import repository
+New gist
+custom hook
+template
+panel
+duplicate
+implementation
+overload
+assignable
+scoped
+tuple
+Invocation
+identifier
+primitive
+admins
+moderators
+External links
+explanation
+relevance
+promotions
+mutual trust
+Authentic
+courteous
+bullying
+degrading comments
+sexual orientation
+notified
+Docker
+dedicate 
+IterableIterator
+indicate
+certifications
+get along the way
+freelance 
+puzzle
+reputation 
+The harder the conflict, the more glorious the triumph.
+Responsive Web Design
+HTML (Hypertext Markup Language) for content, and CSS (Cascading Style Sheets) for design.
+syntax
+Collapse
+assignable
+implicitly
+Create a new release
+redirect
+Contacts
+Pinned 
+upload
+state updates
+asynchronously
+in batch for
+performance optimization
+Consider
+extensive coverage
+Respected   重视；尊敬
+intermediate state
+only updates inside React event handlers are batched by default
+Is there ever a possibility that a is false and b is true for
+For quite a while
+I am curious to find out
+they are too easy to counter
+I came to the conclusion that it was for historical reasons and probably hard to change now.
+is required for 
+initially
+efficiency
+Conceptually it feels strange to me.
+merit
+side effect
+parallel
+awkward
+observations
+justify 
+it suffices I think
+synchronously 
+asynchronous
+inside a browser
+inefficient
+That is, we agree that setState() re-rendering synchronously would be inefficient in many cases, and it is better to batch updates if we know we’ll likely get several ones.
+modular programming
+break programs up
+discrete chunks
+functionality
+verification
+testing trivial
+abstractions and encapsulation boundaries
+coherent design
+the overall application
+Node.js has supported modular programming almost since its inception. 
+limitations
+contrast to 
+express their dependencies 
+overall   总的来说
+verification
+encapsulation
+a coherent design
+layout
+Typography
+Dropdown
+overlay
+Assets
+An interface can be named in an extends or implements clause, but a type alias for an object type literal cannot.
+the concept of modules
+An interface can have multiple merged declarations, but a type alias for an object type literal cannot.
+Handbook
+A great first read for your daily TS work.
+Deep dive reference materials.
+Tutorials
+break this down
+capabilities
+introducing new bugs
+thoroughly
+Ideally
+the feature thoroughly enough
+static type-checker
+things might be going off the rails.
+This expression is not callable
+callable
+Type 'String' has no call signatures.
+Running that last sample with TypeScript will give us an error message before we run the code in the first place.
+isolation
+arbitrary
+Conceptually
+equivalent
+recap
+a capital letter
+modify
+In contrast 
+React is pretty flexible but it has a single strict rule:
+reference  参考文档
+the entry point 
+syntactic sugar
+typically
+manipulating elements
+Fragments
+fetch
+separate
+the base class
+properties
+implement
+a performance boost
+Note
+false-negatives 
+facilitate
+interval
+Timeout
+synthetic event
+Lifecycle
+syntax 
+lowercase
+camelCase
+slightly different
+default behavior
+prevent 
+compatibility
+reference guide 
+Bound
+annoy
+you can get around it
+performance problem
+Inside a loop
+either of the following would work
+equivalent
+respectively
+representing
+argument
+explicitly
+Spec
+toggle
+experimental
+heading
+practical
+access
+variable declaration
+Consider this variable declaration:
+it comes with the full power of JavaScript.
+comes with 
+inherently
+Idle
+Config
+Custom Configuration
+client
+Prettify
+from scratch
+architecture
+optimizations and non-essential features.
+Post
+drop all the code related to classes.
+Concurrent Mode
+We use the spread operator for the props and the rest parameter syntax for the children, this way the children prop will always be an array.
+performant code.
+hint
+didactic purpose
+recursively
+refactor
+recursive call.
+Once we start rendering, we won’t stop until we have rendered the complete element tree. If the element tree is big, it may block the main thread for too long. And if the browser needs to do high priority stuff like handling user input or keeping an animation smooth, it will have to wait until the render finishes.
