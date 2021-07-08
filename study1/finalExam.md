@@ -1,3 +1,5 @@
+外国人问我 结婚对象
+
 (1) things that make you tougher： 让你变得更坚强的事情
 
 Difficult times will force me to face these difficulties.
@@ -28,7 +30,7 @@ In fact, China has changed a lot in the past 100 years or so. From the Qing Dyna
 (5) What are some idioms of clothing? 关于服装的习语有哪些?
 
 ```
-???
+There are many idioms related to clothing in American culture. Here are a few I know of. For example, below the belt. What this idiom really means is that the action is not right. It's usually used this way, That move was below the belt. There are two other idioms, respectively fit like a glove It means to show perfect fit and to lose one's shirt It means to lose all one's possessions. This is how they are usually used. That dress fits you like a glove. Another idiom can be said like this I lost my shirt in a poker game. In fact, these idioms are used very frequently in our daily life. We should learn and use them more often
 ```
 
 (6) Can you teach the skill you learned for your presentation? 你能传授你在演讲中所学到的技能吗?
