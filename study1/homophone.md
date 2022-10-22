@@ -1,0 +1,17 @@
+hair vs hare
+plane vs plain
+tow vs toe
+bear vs bare
+whole vs hole
+beat vs beet
+flea vs flee
+brake vs break
+pause vs paws
+night vs knight
+scent vs cent
+knot vs not
+heal vs heel
+miner vs minor
+flour vs flower
+shoe vs shoo
+whine vs wine
