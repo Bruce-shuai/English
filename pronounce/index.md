@@ -42,3 +42,9 @@ what for ? 表示为什么你要去做那些事
 how so? 表示想了解得更多一些？
 
 who knows? 表示我也不知道
+
+表示赞扬某人擅长做某事
+to be good at doing something
+to be good with n.
+have a way with something
+someone is a real people person

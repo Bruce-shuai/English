@@ -231,7 +231,7 @@ Vocabulary n.（某人掌握或使用的）全部词汇；
 
 Pronounce v.发音
 
-trotters
+trotters ；猪、羊蹄（trotter）
 
 cooperate v.合作，协作；配合，协助
 
@@ -295,3 +295,11 @@ cheddar n. 奶酪
 fountain drink 喷泉式饮水机里的饮料
 
 homophone n. 同音异形异义字
+
+garage n. 车库，加油站
+
+gorgeous adj. 美丽动人的；令人愉快的
+
+benchmark n.基准；基准点
+
+violation n. 违反，违背
