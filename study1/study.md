@@ -303,3 +303,5 @@ gorgeous adj. 美丽动人的；令人愉快的
 benchmark n.基准；基准点
 
 violation n. 违反，违背
+
+industry n. 工业，生产制造; 勤奋

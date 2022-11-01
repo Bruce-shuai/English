@@ -10,6 +10,6 @@ demonstrate v.证明；示范，演示；
 
 obviously （用于强调）显然，显而易见；明显地
 
-mosquitoes n.文字
+mosquitoes n.蚊子
 
 don't forget to click that red subscribe button
